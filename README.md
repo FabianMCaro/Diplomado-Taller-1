@@ -22,4 +22,5 @@ Es un programa para calcular, comparar y auditar hashsets. Con la coincidencia t
 ![alt text](https://github.com/FabianMCaro/Diplomado-Taller-1/blob/main/img/Imagen4.png)
 6.	Se pudo visualizar que le ejecución fue ejecutada y generó nuestro hash correctamente.
 
+#### Nota
 MD5 puede ejecutado de la misma forma, lo único que cambio como tal es el método de encripta miento y el hash generado.
