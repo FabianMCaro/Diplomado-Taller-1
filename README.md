@@ -1,13 +1,12 @@
 # Diplomado-Taller-1
-Integrantes:
-Deivid Alexander Castellanos ID: 607808
-Fabian Mauricio Caro Rodriguez ID: 630974
-Luis Carlos Manrique Boada ID: 569835
+**Integrantes:**
+- Deivid Alexander Castellanos ID: 607808
+- Fabian Mauricio Caro Rodriguez ID: 630974
+- Luis Carlos Manrique Boada ID: 569835
 
 ## HashDeep
 
 Es un programa para calcular, comparar y auditar hashsets. Con la coincidencia tradicional, los programas informan si un archivo de entrada coincide con uno en un conjunto de conocimientos o si el archivo de entrada no coincide. Es difícil tener una idea completa del estado de los archivos de entrada en comparación con el conjunto de datos conocidos. Es posible tener archivos coincidentes, archivos que faltan, archivos que se han movido en el conjunto y encontrar nuevos archivos que no están en el conjunto. Hashdeep puede informar todas estas condiciones. Incluso puede detectar colisiones hash, cuando un archivo de entrada coincide con un archivo conocido en un algoritmo hash pero no en otros. Los resultados se muestran en un informe de auditoría.
-
 
 
 
