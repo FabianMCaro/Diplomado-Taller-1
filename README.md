@@ -15,7 +15,7 @@ Es un programa para calcular, comparar y auditar hashsets. Con la coincidencia t
 
 1.	Descargar el archivo comprimido punto zip de la ruta: https://github.com/jessek/hashdeep/releases/tag/release-4.4 
 2.	descomprimir el archivo punto zip en el directorio
- 
+![alt text](https://github.com/FabianMCaro/Diplomado-Taller-1/blob/main/img/Imagen2.png)
 3.	Dentro de la ruta del archivo descomprimido, abrir el símbolo de sistemas (cmd)
 4.	en la terminal dirigirse a la ruta donde está la carpeta y los archivos
  
