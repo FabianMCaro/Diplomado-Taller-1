@@ -18,8 +18,8 @@ Es un programa para calcular, comparar y auditar hashsets. Con la coincidencia t
 ![alt text](https://github.com/FabianMCaro/Diplomado-Taller-1/blob/main/img/Imagen2.png)
 3.	Dentro de la ruta del archivo descomprimido, abrir el símbolo de sistemas (cmd)
 4.	en la terminal dirigirse a la ruta donde está la carpeta y los archivos
- 
+![alt text](https://github.com/FabianMCaro/Diplomado-Taller-1/blob/main/img/Imagen3.png)
 5.	Ejecutar el comando hashdeep64.exe y el archivo de prueba
- 
+![alt text](https://github.com/FabianMCaro/Diplomado-Taller-1/blob/main/img/Imagen4.png)
 6.	a
 
